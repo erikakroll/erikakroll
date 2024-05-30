@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @erikakroll
-- 👀 I’m interested in using network analysis to study infection of fungal pathogens
+- 👀 I’m interested in using bioinformatics to study fungal diseases of wheat
 - 📫 My email is erika.kroll@rothamsted.ac.uk
 
 <!---
