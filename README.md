@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @erikakroll
-- 👀 I’m interested in using bioinformatics to study fungal diseases of wheat
-- 📫 My email is erika.kroll@rothamsted.ac.uk
+Current BBSRC funded PhD Student working at the Kim Hammond-Kosack lab and working as part of the Delivering Sustainable Wheat (DSW) 🌾 ISP. 
 
 <!---
 erikakroll/erikakroll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
